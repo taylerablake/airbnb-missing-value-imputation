@@ -1,0 +1,20 @@
+version: 0.8.2
+data_loading: TRUE
+data_loading_header: TRUE
+data_ignore:
+cache_loading: TRUE
+recursive_loading: FALSE
+munging: FALSE
+logging: FALSE
+logging_level: INFO
+load_libraries: TRUE
+libraries: reshape, plyr, tidyverse, stringr, lubridate, MASS, magrittr, shiny, stringr, flexdashboard,
+           plotly, rlist, doBy, tidyr, splines, testthat, assertthat, parallel, foreach, randomForest,
+           xtable, jmcm, ggthemes, doParallel, Matrix, ks, nlme, scales, plot3D,
+           readr, caret, DBI, knitr, stringi, odbc, gridExtra, reshape2, dplyr, ranger, utils,
+           stringr, readr, stringdist, Rtsne, dataMaid, ggmosaic
+as_factors: TRUE
+data_tables: FALSE
+attach_internal_libraries: FALSE
+cache_loaded_data:  TRUE
+sticky_variables: NONE

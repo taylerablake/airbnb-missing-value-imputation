@@ -12,7 +12,7 @@ libraries: reshape, plyr, tidyverse, stringr, lubridate, MASS, magrittr, shiny, 
            plotly, rlist, doBy, tidyr, splines, testthat, assertthat, parallel, foreach, randomForest,
            xtable, jmcm, ggthemes, doParallel, Matrix, ks, nlme, scales, plot3D,
            readr, caret, DBI, knitr, stringi, odbc, gridExtra, reshape2, dplyr, ranger, utils,
-           stringr, readr, stringdist, Rtsne, dataMaid, ggmosaic
+           stringr, readr, stringdist, Rtsne, dataMaid, ggmosaic, ROCR
 as_factors: TRUE
 data_tables: FALSE
 attach_internal_libraries: FALSE
